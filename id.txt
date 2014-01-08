@@ -4,7 +4,8 @@ Hash: SHA512
 Who?
 ====
 
-* Jochen Bartl <jochenbartl@mail.de> (jochen@verbomose.de is b0rked atm)
+* Jochen Bartl <jochenbartl@mail.de>
+* jochen@verbosemo.de is b0rked atm
 
 
 Validity
@@ -21,7 +22,7 @@ Cryptographic Information
 =========================
 
 GPG Key
-- -------
+- - -------
 
 	pub   8192R/0x3A1AE6640CEE9AF3 2014-01-04 [expires: 2019-01-04]
 	      Key fingerprint = CE50 763E 22AE 294D 0280  D778 3A1A E664 0CEE 9AF3
@@ -31,7 +32,7 @@ GPG Key
 	sub   4096R/0xBFA901A346665BBE 2014-01-04 [expires: 2015-01-04]
 
 GPG Key Transition Statements
-- -----------------------------
+- - -----------------------------
 
 This is my old key which has been already revoked. Don't use it anymore.
 
@@ -44,7 +45,7 @@ This is my old key which has been already revoked. Don't use it anymore.
 	      Key fingerprint = 7FD8 4BC1 725F DE5B C00A  F4C2 D822 F00E FD76 E3BF
 
 GPG Signing Policy
-- ------------------
+- - ------------------
 
 Level 3 "I have done very careful checking" signatures by me indicate that:
 
@@ -62,7 +63,7 @@ Level 2 "I have done casual checking" signatures by me indicate that:
 * I might have been drunk at that time
 
 OTR Fingerprints and Logging Statements
-- ---------------------------------------
+- - ---------------------------------------
 
 XMPP account lobo@jabber.ccc.de by resource:
 
@@ -71,7 +72,7 @@ HOME	 307721CF 3C790CDC 45EC3A35 45D43744 3D08C00F
 I do not log OTR sessions on this account.
 
 How to verify this File
-- -----------------------
+- - -----------------------
 
 	$ curl http://verbosemo.de/pubkey.asc > jochen.asc
 	$ gpg --import jochen.asc
@@ -89,17 +90,17 @@ What an id.txt is and why everyone should have one
 +---------------------------------------------------------------------------+
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCgAGBQJSzdY1AAoJEIj0od6AC/ilEkQP/RjejEJiRRkZZ8nOD/b3FIv/
-jqbo1u0bZq+hv1Ky36Uem4dkuZAxOw7lkAKi4ycn0MCPIY5t2EsMdSRLL3KLWC9K
-ROMJsV19lb10xg2BHSjlznkblkOtOUBtHDkas3rsgHLASbqcpTSQXmIT6jbsCPtg
-0ZZcmyoPyc67oU0K6UlVv+7NJYCnaUBRHGwQkm2dOwoZaIPZpJEt7mWtLmAQnLZX
-kXYvUbUqoX61Nr28KkYe2Rwo+n1HN7Y3psP2QUVL4N+XsHJVgdEOcyNxHu0HfWRX
-/M3KjcCatS7lc4vQfjEU+9jVgfdTOsyxDwGkQhB/lp1Xrrnxj8HWrvFQP9G0YgGH
-DLdYOcvwXo6zo5WKd1QN2/eihJAcrLzXEaXZHhjk5oSCabfiiotfUJpnBDvsDYsW
-3hBh5I5wJSG0dLW4PkMoe+eUJBCV+zICPKy7vIxqCLibvP5C5piAjNjAxn2YYEYl
-awFeM/eSSV5d/MkU1wKmkf+4IskaY/xGXG98KeOUNIqDfKjCKgfbdCVYiJW9bNur
-Jr5PvATqhAoMr5XVT/FNmjFihL7GuoYyIeCwdgv+Vp0ddsC8Cr9HzRvrCxA47/8L
-3LFC1qR76fS1w/VB3TxAm//AKzyDoaZTT6wLKZrG1nXi6RACxQ8YKhSIOzAYi8sH
-WUl9E1DYZw0wUkPd4lBw
-=W3fO
+iQIcBAEBCgAGBQJSzdc6AAoJEIj0od6AC/iltBcQANaYiOOrhUTQ+msGbwvM+2lY
+INqXr1k07ENM/CKL+emuaRJj7yCNFpbbMyzyQx5Dtjx1IBa5Rj10QdVnjHgUNRoV
+z0t/uB8GUcbhoMIpLZvTXRBNYEp6OT1mOAr0YmKW9ZfztWe9fWp4pEP/lm6TWwAD
+rNV/Xzy9Xa7BkuuUI54WQ/lNLgtIwH4z04HQqrjGtLe97ooHZ6CnMS3AZDd+ziS8
+/CgWoifW2UQYm+5+K3KvnQFQaz8Wk86iUY45/vhQurpwrwxTM5LNxNAvjKZha89K
+MPjsZ1Mh/SutTv5tjGS9X8qc2CGxBuj3+29VfWcDnOQxuRX690esowFUcfE6ve8r
+I53Duj0TrTSXCIBEpJW8A3sB+Akv5alpjnBudIftHxuvsVWV1j6k+AAjRzZWIuTi
+KhCL9Amho5+nVlekvglG94PrhXzqX2j5bFPbqC9rGK7meg86lvotdnUE+xHO1yuc
++BxphifUqHVXs641LiG7S/RNwCQnOGCqaSxd2w3a2RNSoFsSZrY6GXcrx67S3flQ
+JHB1fbScsVw+zwPuJhT44UGlnVjjEDuhWRvICrzLLxt+wIxT88DOlGp8yX9uWY67
+CaiW3TSJNjVF7fh/LXDwkUWJ/7glsuZMj9vurQfXuSCJfNZDHuLZXbGvQZOUDW0r
+Uh16ptmR6Ls60ZTcSE8y
+=QbHj
 -----END PGP SIGNATURE-----
