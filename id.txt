@@ -1,0 +1,105 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Who?
+====
+
+* Jochen Bartl <jochenbartl@mail.de> (jochen@verbomose.de is b0rked atm)
+
+
+Validity
+========
+
+This information is current as of 2014-01-08. If in doubt, check:
+
+  http://verbosemo.de/id.txt
+
+for an updated version.
+
+
+Cryptographic Information
+=========================
+
+GPG Key
+- -------
+
+	pub   8192R/0x3A1AE6640CEE9AF3 2014-01-04 [expires: 2019-01-04]
+	      Key fingerprint = CE50 763E 22AE 294D 0280  D778 3A1A E664 0CEE 9AF3
+	uid                 [ultimate] Jochen Bartl <jochenbartl@mail.de>
+	uid                 [ultimate] Jochen Bartl <jochen@verbosemo.de>
+	sub   4096R/0x88F4A1DE800BF8A5 2014-01-04 [expires: 2015-01-04]
+	sub   4096R/0xBFA901A346665BBE 2014-01-04 [expires: 2015-01-04]
+
+GPG Key Transition Statements
+- -----------------------------
+
+This is my old key which has been already revoked. Don't use it anymore.
+
+	pub   1024D/0x9B595D035805A788 2004-01-15 [expires: 2014-03-18]
+	      Key fingerprint = 550F 4EC4 C004 6388 2F1A  50BF 9B59 5D03 5805 A788
+	uid                 [ unknown] Jochen Bartl <jochen.bartl@gmail.com>
+	uid                 [ unknown] Jochen Bartl <jochen.bartl@gmx.net>
+	uid                 [ unknown] Jochen Bartl (Jabber) <lobo@jabber.ccc.de>
+	sub   2048g/0xD822F00EFD76E3BF 2004-01-15 [expires: 2014-03-18]
+	      Key fingerprint = 7FD8 4BC1 725F DE5B C00A  F4C2 D822 F00E FD76 E3BF
+
+GPG Signing Policy
+- ------------------
+
+Level 3 "I have done very careful checking" signatures by me indicate that:
+
+* I personally know the subject of the key by that name, and have for some time;
+* I can readily recognise them; and
+* I verified their key fingerprint in person.
+
+Level 2 "I have done casual checking" signatures by me indicate that:
+
+* I physically met this person, not by voice or video chat;
+* they presented me with very difficult to forge evidence of their identity 
+  (normally state issued photo identification) or are widely recognized by their
+  identity by their peers; and
+* I verified their key fingerprint at that time.
+* I might have been drunk at that time
+
+OTR Fingerprints and Logging Statements
+- ---------------------------------------
+
+XMPP account lobo@jabber.ccc.de by resource:
+
+HOME	 307721CF 3C790CDC 45EC3A35 45D43744 3D08C00F
+
+I do not log OTR sessions on this account.
+
+How to verify this File
+- -----------------------
+
+	$ curl http://verbosemo.de/pubkey.asc > jochen.asc
+	$ gpg --import jochen.asc
+	$ curl http://verbosemo.de/id.txt > jochen.txt
+	$ gpg --verify jochen.txt 
+
+
+What an id.txt is and why everyone should have one
+==================================================
+
+* http://waaaaargh.github.io/cryptography/2013/09/14/what-an-idtxt-is-and-why-everyone-should-have-one/
+
++---------------------------------------------------------------------------+
+|                            END OF TRANSMISSION                            |
++---------------------------------------------------------------------------+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJSzdY1AAoJEIj0od6AC/ilEkQP/RjejEJiRRkZZ8nOD/b3FIv/
+jqbo1u0bZq+hv1Ky36Uem4dkuZAxOw7lkAKi4ycn0MCPIY5t2EsMdSRLL3KLWC9K
+ROMJsV19lb10xg2BHSjlznkblkOtOUBtHDkas3rsgHLASbqcpTSQXmIT6jbsCPtg
+0ZZcmyoPyc67oU0K6UlVv+7NJYCnaUBRHGwQkm2dOwoZaIPZpJEt7mWtLmAQnLZX
+kXYvUbUqoX61Nr28KkYe2Rwo+n1HN7Y3psP2QUVL4N+XsHJVgdEOcyNxHu0HfWRX
+/M3KjcCatS7lc4vQfjEU+9jVgfdTOsyxDwGkQhB/lp1Xrrnxj8HWrvFQP9G0YgGH
+DLdYOcvwXo6zo5WKd1QN2/eihJAcrLzXEaXZHhjk5oSCabfiiotfUJpnBDvsDYsW
+3hBh5I5wJSG0dLW4PkMoe+eUJBCV+zICPKy7vIxqCLibvP5C5piAjNjAxn2YYEYl
+awFeM/eSSV5d/MkU1wKmkf+4IskaY/xGXG98KeOUNIqDfKjCKgfbdCVYiJW9bNur
+Jr5PvATqhAoMr5XVT/FNmjFihL7GuoYyIeCwdgv+Vp0ddsC8Cr9HzRvrCxA47/8L
+3LFC1qR76fS1w/VB3TxAm//AKzyDoaZTT6wLKZrG1nXi6RACxQ8YKhSIOzAYi8sH
+WUl9E1DYZw0wUkPd4lBw
+=W3fO
+-----END PGP SIGNATURE-----
