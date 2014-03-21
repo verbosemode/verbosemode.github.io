@@ -4,14 +4,13 @@ Hash: SHA512
 Who?
 ====
 
-* Jochen Bartl <jochenbartl@mail.de>
-* jochen@verbosemo.de is b0rked atm
+* Jochen Bartl <jochenbartl@mailbox.org>
 
 
 Validity
 ========
 
-This information is current as of 2014-01-08. If in doubt, check:
+This information is current as of 2014-03-21. If in doubt, check:
 
   http://verbosemo.de/id.txt
 
@@ -22,17 +21,21 @@ Cryptographic Information
 =========================
 
 GPG Key
-- - -------
+- -------
+
+* jochen@verbosemo.de is b0rked atm
 
 	pub   8192R/0x3A1AE6640CEE9AF3 2014-01-04 [expires: 2019-01-04]
 	      Key fingerprint = CE50 763E 22AE 294D 0280  D778 3A1A E664 0CEE 9AF3
 	uid                 [ultimate] Jochen Bartl <jochenbartl@mail.de>
 	uid                 [ultimate] Jochen Bartl <jochen@verbosemo.de>
+	uid                 [ultimate] Jochen Bartl <jochenbartl@mailbox.org>
 	sub   4096R/0x88F4A1DE800BF8A5 2014-01-04 [expires: 2015-01-04]
 	sub   4096R/0xBFA901A346665BBE 2014-01-04 [expires: 2015-01-04]
+	sub   4096R/0xF25879C365F8E312 2014-01-05 [expires: 2019-01-05]
 
 GPG Key Transition Statements
-- - -----------------------------
+- -----------------------------
 
 This is my old key which has been already revoked. Don't use it anymore.
 
@@ -45,7 +48,7 @@ This is my old key which has been already revoked. Don't use it anymore.
 	      Key fingerprint = 7FD8 4BC1 725F DE5B C00A  F4C2 D822 F00E FD76 E3BF
 
 GPG Signing Policy
-- - ------------------
+- ------------------
 
 Level 3 "I have done very careful checking" signatures by me indicate that:
 
@@ -63,7 +66,7 @@ Level 2 "I have done casual checking" signatures by me indicate that:
 * I might have been drunk at that time
 
 OTR Fingerprints and Logging Statements
-- - ---------------------------------------
+- ---------------------------------------
 
 XMPP account lobo@jabber.ccc.de by resource:
 
@@ -72,7 +75,7 @@ HOME	 307721CF 3C790CDC 45EC3A35 45D43744 3D08C00F
 I do not log OTR sessions on this account.
 
 How to verify this File
-- - -----------------------
+- -----------------------
 
 	$ curl http://verbosemo.de/pubkey.asc > jochen.asc
 	$ gpg --import jochen.asc
@@ -90,17 +93,17 @@ What an id.txt is and why everyone should have one
 +---------------------------------------------------------------------------+
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCgAGBQJSzdc6AAoJEIj0od6AC/iltBcQANaYiOOrhUTQ+msGbwvM+2lY
-INqXr1k07ENM/CKL+emuaRJj7yCNFpbbMyzyQx5Dtjx1IBa5Rj10QdVnjHgUNRoV
-z0t/uB8GUcbhoMIpLZvTXRBNYEp6OT1mOAr0YmKW9ZfztWe9fWp4pEP/lm6TWwAD
-rNV/Xzy9Xa7BkuuUI54WQ/lNLgtIwH4z04HQqrjGtLe97ooHZ6CnMS3AZDd+ziS8
-/CgWoifW2UQYm+5+K3KvnQFQaz8Wk86iUY45/vhQurpwrwxTM5LNxNAvjKZha89K
-MPjsZ1Mh/SutTv5tjGS9X8qc2CGxBuj3+29VfWcDnOQxuRX690esowFUcfE6ve8r
-I53Duj0TrTSXCIBEpJW8A3sB+Akv5alpjnBudIftHxuvsVWV1j6k+AAjRzZWIuTi
-KhCL9Amho5+nVlekvglG94PrhXzqX2j5bFPbqC9rGK7meg86lvotdnUE+xHO1yuc
-+BxphifUqHVXs641LiG7S/RNwCQnOGCqaSxd2w3a2RNSoFsSZrY6GXcrx67S3flQ
-JHB1fbScsVw+zwPuJhT44UGlnVjjEDuhWRvICrzLLxt+wIxT88DOlGp8yX9uWY67
-CaiW3TSJNjVF7fh/LXDwkUWJ/7glsuZMj9vurQfXuSCJfNZDHuLZXbGvQZOUDW0r
-Uh16ptmR6Ls60ZTcSE8y
-=QbHj
+iQIcBAEBCgAGBQJTLJ7wAAoJEIj0od6AC/ilAOIP/0gt2pvBHoD6h4bb9hBPwRkd
+6eBc3+Zo25DZFx3Hh072LZQJhn6CBN4tsNCZuJCdIL1pyNG6/6r4Zoo9CpZPptdv
+SicgQIhVCxkjuQWgxic3SHMD/mMbEMzG25duaE4dx0O9cd+SD4J4/sLcXGL9KxZc
+r59OMHkx68ckuPlAdludOIjeAG24U8uSz2iEv2l6gcbSiWdWedJ9FY1t3w584GYZ
+GpLHTnM0Ck87jmVo1NvghxB8Y0BITZCv61s82Io1BkteUBy7byd/D5F1SjWoddas
+bexQxJIl/JZNzN2g2XbprPKnkpXNZUOkUH6HoQbmqe/lFOiW23MLekY4p3FqRYF0
+QiDR73LzXcLTzQIh2dZWlBNyFDEQE0BffZ781qiiLKal/rDjanhVTESS23ZUgwno
+DsyIX8mhgkAQzvfqr0su+HP/+UOR//mM2G/LTHzldsSZHlNs/nXaDJ1U9YNapDZg
+/9ROFZ4qX+JxCE2uLOGdfwJqt0fZiVGKNw9BBbJoVnMHHIgt1AIfIuccv62NBrnI
+B10ynmQ65XPqzgj7QyaUmV80Xv+A6gbrfWBc1CFVkEhIv2mfU22LoqbTHiLVAB9o
+rYSZeqDcwwTsBD15+/n466xEcf8FN4e3ofoqXNQCxZyiPjiOEXvjE+SZZuSVB1nC
+meAgKe/MgjNT+iswNCQp
+=FbOI
 -----END PGP SIGNATURE-----
