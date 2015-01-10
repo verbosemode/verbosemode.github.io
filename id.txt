@@ -8,7 +8,7 @@ Hash: SHA512
 
 # Validity
 
-This information is current as of 25 Dec 2014. If in doubt, check:
+This information is current as of 11 Jan 2015. If in doubt, check:
 
   http://verbosemo.de/id.txt
 
@@ -87,17 +87,17 @@ I do not log OTR sessions on this account.
 +---------------------------------------------------------------------------+
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCgAGBQJUnFEkAAoJEIj0od6AC/ilznsP/RSuefq6upJ5h/E/iNaX3XhF
-SKb/rxQ+tCVAxeerGBmXzrvcBLHX1e2ggUNE9hiSHyQziZBs4VQ6OfE0uaUdq68p
-OLTyjbBOmW/oTfDEOxYJTSoBqFQpyNY8pzCVwOnPKHX/friYnAPul67tH07MTXnt
-MaHxCNJd/QBdY27KkGtSFLpEmf/ArWM8Tdn01Aq9GbfAnqYqO2ewoKu+XFLa22mU
-f5UppJQT9EVB1Ou79b4birXGrSTbkv1JhPs0lKAoRviT3YjvtG2StRhu3VIlGcVa
-ylBXWmpL0Zl2aagg+gn5Z63mZCUiGaQCGAQNfY3UbYauw72YYxioSXidcqsEaq9x
-X4hjaIjPpr9Shj2da4/Td4mRg0Y6yPNxxyxRJvdT9JuUC3lfCJYl6rQtVt6fXIyt
-VPIvJWf9iKGsEqB4UH0Ex71FUN2tiqCxAd8pDti0k8WuOdJGCYAjsdebfxHUhB9E
-FRZB6ljUWBu2t7kscuaw+mixUgk2XSk7hIXrF1VD6PriIqyYM16PHpaZAMcvd39v
-41X4+TbS3hpvDnVYNvkbzaEbb7IPksi7cRZCXn1PfutQW1ex8LJZQzCj9SxAI2Ls
-27m4HiG/YsrmQNzsk1l0rzlTEFsvQ5tMl/oNlpp3ASjOyD2DGdrWv1TI1TQpsNkb
-mGnqy8DQ2dzWFpq3hr0H
-=RGj+
+iQIcBAEBCgAGBQJUsbYqAAoJEIj0od6AC/ilGNYP/R00D0GAJ1vrOASYAlNF/22n
+MPu5+LFf8XWauW9iZ/YGUaD9ixm73+nlkMUSN1boo8GXkvie+PKHR19YQjZGaf7m
+yJ5SB4sVCL+/bfLUVU5mcgFTMQsbOo0W9nVHrXys8OZVhJtnyqDAMRRjilt3hj7k
+eYytlJMFNNEt8+7LyhncKN5+Lqq3qsxzAxScdRl2LsnZeuoDOQPztgpVXCbKBI8q
+6X4HhPAocEzx3DiruvuwzWDJaUrwMn6s8xHIgrc+c8omG1gjMsqiq5AhZsF92C5G
+kasEHU+CQ5meDSsq0OdNW3OOf6cBFUF7rxkQQg6AySAcx1KC0oPLMZoY9wpbjVn6
+zECYlr+8B3PqN8bNid1JqtrZNQQS4pyodB8C13sWj26iU0/OWTHQ3yvz4yHLi3kV
+hiCC3wNFLcgEkK54YKzIu9NTzcHjwRfvZWX4POnPunWQip5snhNaeX1/6a7KHH+t
+bQdbsyJX2+cZHpgvHrNaO85lROcAVrKwt/s6MGhfBJZEt5SD+OngyXDfFAx3fNIv
+6ZHT1hvO7HqXLP1L6UMNzTrmur8pxD0NI5YkgH9/ifhagdyHM6w9aXyMWffPvNxi
+TnrzSaEELu7X/irYXUiQAH4UZ9Ai7LFRWmJkDD5Ed0HSjvWgnHqaJEIFdQ35a0Bc
+nXJc42wUL53MiRDHVn1w
+=iEBy
 -----END PGP SIGNATURE-----
