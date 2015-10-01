@@ -8,7 +8,7 @@ Hash: SHA512
 
 # Validity
 
-This information is current as of 11 Jan 2015. If in doubt, check:
+This information is current as of 01 Oct 2015. If in doubt, check:
 
   http://verbosemo.de/id.txt
 
@@ -65,7 +65,8 @@ Level 2 "I have done casual checking" signatures by me indicate that:
 
 XMPP account lobo@jabber.ccc.de by resource:
 
-HOME	 307721CF 3C790CDC 45EC3A35 45D43744 3D08C00F
+dachb0den	 6515300b f7851699 ea314606 03aa234d 3be16574
+HOME             307721cf 3c790cdc 45ec3a35 45d43744 3d08c00f (old, no longer in use)
 
 I do not log OTR sessions on this account.
 
@@ -87,17 +88,17 @@ I do not log OTR sessions on this account.
 +---------------------------------------------------------------------------+
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCgAGBQJUsbYqAAoJEIj0od6AC/ilGNYP/R00D0GAJ1vrOASYAlNF/22n
-MPu5+LFf8XWauW9iZ/YGUaD9ixm73+nlkMUSN1boo8GXkvie+PKHR19YQjZGaf7m
-yJ5SB4sVCL+/bfLUVU5mcgFTMQsbOo0W9nVHrXys8OZVhJtnyqDAMRRjilt3hj7k
-eYytlJMFNNEt8+7LyhncKN5+Lqq3qsxzAxScdRl2LsnZeuoDOQPztgpVXCbKBI8q
-6X4HhPAocEzx3DiruvuwzWDJaUrwMn6s8xHIgrc+c8omG1gjMsqiq5AhZsF92C5G
-kasEHU+CQ5meDSsq0OdNW3OOf6cBFUF7rxkQQg6AySAcx1KC0oPLMZoY9wpbjVn6
-zECYlr+8B3PqN8bNid1JqtrZNQQS4pyodB8C13sWj26iU0/OWTHQ3yvz4yHLi3kV
-hiCC3wNFLcgEkK54YKzIu9NTzcHjwRfvZWX4POnPunWQip5snhNaeX1/6a7KHH+t
-bQdbsyJX2+cZHpgvHrNaO85lROcAVrKwt/s6MGhfBJZEt5SD+OngyXDfFAx3fNIv
-6ZHT1hvO7HqXLP1L6UMNzTrmur8pxD0NI5YkgH9/ifhagdyHM6w9aXyMWffPvNxi
-TnrzSaEELu7X/irYXUiQAH4UZ9Ai7LFRWmJkDD5Ed0HSjvWgnHqaJEIFdQ35a0Bc
-nXJc42wUL53MiRDHVn1w
-=iEBy
+iQIcBAEBCgAGBQJWDXdlAAoJEIj0od6AC/ileVkQAIPtyqG0auGad78S37J90BZ3
+x9MEeBVNyuftcRxLev2ODIUOhEMmJWCtTEF58qNSBjYCea5o6K4OdTcbTUP0n19z
+wSItOr23+EV1cWyhKrYW/YgNqOU4+LRlVtZ+gOQXSfXUrnC8CYdJ+tYkUzMwNPj+
+clVbkw4R447bdk6SJgA8php3D2cgOlqEpxYMSbAW0fCY3QV2eNoDotLtTzp8izgk
+sT8OZ8B5uIFXfipcpENuq/FwKwAW7w5fdz9Verntsov7q2o/37Ch3okm8TQ/E9ZK
+TuqtyuapzKXdNwMeq14bEhFkHHYEbMS1QB33IYv7k00AxGbGqrw5wwe5Tm/iV+V5
+NfJfGdq2t354D/B9/flsCX1t/ac6Om+f9fM+wrCr4R+hOyA7SSAv7j7Nh5ZFDYl6
+sGfqMkmZzOouvYQNQy+ne7hJnUopxoB0DnnSpJoE34x90xtjGRNQhhWmkitytaKx
+Ro9pJsa36DdunO8xOGmMUnMNZ3ErN8zG9k7+MBZZ9iG5TLSCYQe/I/qhmDmyIzWD
+grIiiw/5hHK0dOR+EYue+HBvNqfmHj9/GbyLnPH3L/bLTHwRK+/TMlR/3XBH0sYf
+qbP128gE07ranzo4CCrq49N31+z0Fe4OgmxU+Ub6yXNfprn6za8mQkuAsdTOs7oN
+ZGlht4XlpujMUrjaG9kO
+=yYpc
 -----END PGP SIGNATURE-----
