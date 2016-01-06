@@ -8,7 +8,7 @@ Hash: SHA512
 
 # Validity
 
-This information is current as of 01 Oct 2015. If in doubt, check:
+This information is current as of 06 Jan 2016. If in doubt, check:
 
   http://verbosemo.de/id.txt
 
@@ -23,8 +23,8 @@ for an updated version.
 	      Key fingerprint = CE50 763E 22AE 294D 0280  D778 3A1A E664 0CEE 9AF3
 	uid                 [ultimate] Jochen Bartl <jochenbartl@mailbox.org>
 	uid                 [ultimate] Jochen Bartl <jochen@verbosemo.de>
-	sub   4096R/0x88F4A1DE800BF8A5 2014-01-04 [expires: 2016-01-04]
-	sub   4096R/0xBFA901A346665BBE 2014-01-04 [expires: 2016-01-04]
+	sub   4096R/0x88F4A1DE800BF8A5 2014-01-04 [expires: 2017-01-05]
+	sub   4096R/0xBFA901A346665BBE 2014-01-04 [expires: 2017-01-05]
 	sub   4096R/0xF25879C365F8E312 2014-01-05 [expires: 2019-01-05]
 	
 	
@@ -88,17 +88,17 @@ I do not log OTR sessions on this account.
 +---------------------------------------------------------------------------+
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCgAGBQJWDXdlAAoJEIj0od6AC/ileVkQAIPtyqG0auGad78S37J90BZ3
-x9MEeBVNyuftcRxLev2ODIUOhEMmJWCtTEF58qNSBjYCea5o6K4OdTcbTUP0n19z
-wSItOr23+EV1cWyhKrYW/YgNqOU4+LRlVtZ+gOQXSfXUrnC8CYdJ+tYkUzMwNPj+
-clVbkw4R447bdk6SJgA8php3D2cgOlqEpxYMSbAW0fCY3QV2eNoDotLtTzp8izgk
-sT8OZ8B5uIFXfipcpENuq/FwKwAW7w5fdz9Verntsov7q2o/37Ch3okm8TQ/E9ZK
-TuqtyuapzKXdNwMeq14bEhFkHHYEbMS1QB33IYv7k00AxGbGqrw5wwe5Tm/iV+V5
-NfJfGdq2t354D/B9/flsCX1t/ac6Om+f9fM+wrCr4R+hOyA7SSAv7j7Nh5ZFDYl6
-sGfqMkmZzOouvYQNQy+ne7hJnUopxoB0DnnSpJoE34x90xtjGRNQhhWmkitytaKx
-Ro9pJsa36DdunO8xOGmMUnMNZ3ErN8zG9k7+MBZZ9iG5TLSCYQe/I/qhmDmyIzWD
-grIiiw/5hHK0dOR+EYue+HBvNqfmHj9/GbyLnPH3L/bLTHwRK+/TMlR/3XBH0sYf
-qbP128gE07ranzo4CCrq49N31+z0Fe4OgmxU+Ub6yXNfprn6za8mQkuAsdTOs7oN
-ZGlht4XlpujMUrjaG9kO
-=yYpc
+iQIcBAEBCgAGBQJWjSkGAAoJEIj0od6AC/ilw8UP/jgJ7X/LHSXERaxlVOvW9SV+
+5hRGd7P4sh8WhqpzIjTUyWpoX4aqDIsbhSZt685kJUGA6kXHGiusiMG7ghKKr8rP
+je5W2a9QF0gx1K+x5l9OEE+KL4w8atcfOl3D2EG8Zn0n7UMscdb19IdM+fQC5Q5u
+NlXABPnrxdXR/dk4f22ucHl6xzzjAMc7Ji9okJaX2zJogoGIwBDp3ZD2KBYcn78p
+kQn4P8gDYYU6lcIcV9rTDvcWiKAphhc2WWSqkQwWlwZFN+CmZCR68IsBGF6uNzCT
+OilOdmjNcgPUBtpWLz6txhQDLj6GUbpDOQ5Zn7tzqi+U9F7zb9M5QSzQG7QFWAO+
+Z3TqVq4eCZVPZL+sAY3ycKinB9BoT9bA1/H/vI5rYNEWHhxy8cWGhZX/gWZaOrPC
+9FsYgr4jSM10nbdX97Y/V00b65Wq8S88IuyIgDRh/IcpkcpKJDnxefWucpYeWhWd
++6Heit0dSkEZeRLf6j/qb1NM9+oB7QfGjsNvlEDp4ehcLFELXTGxL9D16QEukCTx
+4CkgSSHVzj7SQb+4QD4GCAtNPbW/dMkKe85lPHSawRcpY6Eg3TKu2FimbINA+lCy
+YZ6Qfa0Rk7YDrrs1i1OwYqTIRZitM9Nj4URtcOs32ZFMSwfURG9cT3h4fJ1GYOGu
+OIq+U2EzL7ew1vc9CmXZ
+=aE2u
 -----END PGP SIGNATURE-----
