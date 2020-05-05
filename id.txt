@@ -8,7 +8,7 @@ Hash: SHA512
 
 # Validity
 
-This information is current as of 09 Apr 2019. If in doubt, check:
+This information is current as of 05 May 2020. If in doubt, check:
 
   http://verbosemode.github.io/id.txt
 
@@ -19,13 +19,13 @@ for an updated version.
 
 ## GPG Key
 
-	pub   rsa8192/0x3A1AE6640CEE9AF3 2014-01-04 [SC] [expires: 2020-04-08]
+	pub   rsa8192/0x3A1AE6640CEE9AF3 2014-01-04 [SC] [expires: 2025-05-04]
 	      Key fingerprint = CE50 763E 22AE 294D 0280  D778 3A1A E664 0CEE 9AF3
 	uid                   [ultimate] Jochen Bartl <jochenbartl@mailbox.org>
 	uid                   [ultimate] Jochen Bartl <jochen@verbosemo.de>
-	sub   rsa4096/0x88F4A1DE800BF8A5 2014-01-04 [S] [expires: 2020-04-08]
-	sub   rsa4096/0xBFA901A346665BBE 2014-01-04 [E] [expires: 2020-04-08]
-	sub   rsa4096/0xF25879C365F8E312 2014-01-05 [A] [expires: 2020-04-08]
+	sub   rsa4096/0x88F4A1DE800BF8A5 2014-01-04 [S] [expires: 2021-05-05]
+	sub   rsa4096/0xBFA901A346665BBE 2014-01-04 [E] [expires: 2021-05-05]
+	sub   rsa4096/0xF25879C365F8E312 2014-01-05 [A] [expires: 2021-05-05]
 	
 	
 
@@ -88,17 +88,17 @@ I do not log OTR sessions on this account.
 +---------------------------------------------------------------------------+
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEwjSuHWPyHtGEDctOiPSh3oAL+KUFAlytC90ACgkQiPSh3oAL
-+KWpGRAAxl8poFo+szK3esScPZtqbD4bpNTvnviJmVEfktQ/IK4RksVLYqzba1+L
-VpPEktQQEkVfrjw9CBxMekjGta6UzM7sOUnNuQ0PK2vIajaAujig6rW5bh8L/hBc
-pUUkLCcNrAfIdRPld04NgpulXmfw23EUhq6sdJrzwby53EEsroUw7UWJ+CtPUiRv
-z/UXyZLJZfW5UxWvsqtcJR4s/3jmBESXGd3Oico8DJZ8As/NTJFzEXqFuC8zEXWb
-l4XfXBsJfJgKIA/UkKeKVEbkqtbb+7lcEeyNFSroVdJ4UF4cCFRCDkdILyTgg9Pz
-Aoc7KI+yH5Sm3xDuDadt/cUEeQEdThkf/oCv/ejAXii3kVDQXnpbjF9p02Dx7aSr
-4F1gBhaJX506DCpLhU9tUIpHO68e+oR6gxF9pptUp7vWwjGK4xn0rAktvBiiA+nT
-cQ1Fh+qjgETfplwON6CMv24XhCMRxcJT/eCxcspZsogZvwKCN37GxWc5oOiwsY3j
-IHNdPbnEdnq0DZHTfqJWSti68h1XlA/+7I1gg4xGICbImFF4/EJ3jTAe3EubHD2K
-ZOSRUZYI9CuPRzoa5XwgcnEAqfs/UfPIN9FlVzdO2X1n76RtN689XoZpo8Pr+WDe
-NGLPRngt2a9TR8bYDlW5JTs+5x9MHFsT44QVPw5BwoG4f3paQmM=
-=/41N
+iQIzBAEBCgAdFiEEwjSuHWPyHtGEDctOiPSh3oAL+KUFAl6xlhgACgkQiPSh3oAL
++KWfSA/+KtdKq65RE1TzMhDIKbJN35CzVKFGIDupBJ7HXqxQRsY3LhRvcFPZ1L3y
+MNaf6E7EzWaJbWkT2I2/UI2cvNWgUF7kHvVb+DPtx/Z8C4JlIRC3MCnPbQJzLXMG
+iul/jBRBr6s2gi3vZ9uee2k/id1CwLm30M1mHdHsio7/WmhVS0h/7dzBflLRltN4
+ThBR//dmb59w1V4cef4IVwarKQdTz3CcnCE7lTws95naMicwpUxEtFpPUQj3aW65
+Y31UvreSRplTBi1Xkar+21OYMilCR9w+nBTH9dmeyJDNwMOIMYNHtDOR4P251AQk
+fNOHuTY0XxWvefnaivV+eCvZ3ZC+9N04/awWkQZ7aVnqAQ2z1KbmAvFXmKeMrEvD
+GcSAo4T1EvHEjOedbt11N/KnNqCu+UwzYglxa6FdwrtUNux7tI6/CN6q8jz9jmei
+zYcd6wWDv677ucLvV9kSTRlpnG30wrN8bXcEnEbZA7Iv2oEYUu3bZw72JZLyotR9
+95jK7H37DeOaJEzQ+dcgGnJGP5HzcC9WO7Yb6UGYYapWgpgYrqjJ1H07Z4uPxP4E
+CL7QresJ1F2qmuxjfc+avb1txCJKIYJr6Oo+Q8dUHph5FZPVz58QkDbWLoFYtWny
+zk+WBpGPhmlDByJzaBe130qAZvzj9ItfIU6tsLwMXkyHN11z6+k=
+=+Oom
 -----END PGP SIGNATURE-----
